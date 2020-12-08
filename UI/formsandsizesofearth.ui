@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FormsAndSizesOfEarth</class>
+ <widget class="QDialog" name="FormsAndSizesOfEarth">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>651</width>
+    <height>505</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Forms and sizes of the Earth</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="label">
+     <property name="text">
+      <string>Choose a task</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="VisibilityHorizonFar">
+     <property name="text">
+      <string>VisibilityHorizonFar</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="Point_Antipode">
+     <property name="text">
+      <string>Point-Antipode</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
